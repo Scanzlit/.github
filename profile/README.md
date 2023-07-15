@@ -1,5 +1,5 @@
 # Scanzlit
 
-<img src="https://www.Scanzlit.com/assets/imgs/logo.png"/>
+<img src="https://scanzlit.com/assets/imgs/logo.png"/>
 
 https://www.Scanzlit.com
